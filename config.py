@@ -30,7 +30,7 @@ PERIOD_MONTHS = [
     datetime(2026, 5, 1),
     datetime(2026, 6, 1),
 ]
-PERIOD_LABEL = "Q1 FY27 (Apr–Jun 2026)"
+PERIOD_LABEL = "Q1 FY27 (Apr-Jun 2026)"
 
 # ── Business Rule Thresholds ─────────────────────────────────────────────────
 SALES_RISK_THRESHOLD        = 0.80   # booking value < 80% of AOP target
